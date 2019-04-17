@@ -920,9 +920,9 @@
     "restore": {
       "projectUniqueName": "New_Project",
       "projectName": "New_Project",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\New_Project\\.local",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\New_Project\\New_Project\\.local",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\New_Project\\.local"
+      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\New_Project\\New_Project\\.local"
     },
     "frameworks": {
       "net461": {
