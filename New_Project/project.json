@@ -1,6 +1,6 @@
 {
-  "name": "Testbot",
-  "description": "Testbot",
+  "name": "New_Project",
+  "description": "Its a new project",
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.UIAutomation.Activities": "[19.3.0]",

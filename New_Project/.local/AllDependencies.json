@@ -918,11 +918,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Testbot",
-      "projectName": "Testbot",
-      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\UIpath_test\\Testbot\\.local",
+      "projectUniqueName": "New_Project",
+      "projectName": "New_Project",
+      "projectPath": "C:\\Users\\Administrator\\Documents\\GitHub\\New_Project\\.local",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\UIpath_test\\Testbot\\.local"
+      "outputPath": "C:\\Users\\Administrator\\Documents\\GitHub\\New_Project\\.local"
     },
     "frameworks": {
       "net461": {
