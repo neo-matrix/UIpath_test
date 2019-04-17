@@ -79,7 +79,7 @@
             <OutArgument x:TypeArguments="x:Boolean">[a]</OutArgument>
           </Assign.To>
           <Assign.Value>
-            <InArgument x:TypeArguments="x:Boolean">False</InArgument>
+            <InArgument x:TypeArguments="x:Boolean">True</InArgument>
           </Assign.Value>
         </Assign>
         <If Condition="[a]" sap:VirtualizedContainerService.HintSize="653,208" sap2010:WorkflowViewState.IdRef="If_1">
